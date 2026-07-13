@@ -681,6 +681,12 @@ var AlfaCotizador = (function () {
     document.querySelectorAll('[data-af-cotizar]').forEach(function (el) {
       el.addEventListener('click', function (e) { e.preventDefault(); abrir(); });
     });
+
+    // Apertura automática cuando la URL trae #cotizar
+    // (ej. el botón "Cotizar" del menú lleva a contacto.html#cotizar)
+    function autoAbrir() { if (location.hash === '#cotizar') abrir(); }
+    autoAbrir();
+    window.addEventListener('hashchange', autoAbrir);
   }
 
   return { init: init, abrir: abrir, cerrar: cerrar };
