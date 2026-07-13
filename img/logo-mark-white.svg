@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Alfa Tours">
+  <g fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 40
+             C 55 24, 30 34, 27 60
+             C 24 86, 50 96, 70 82
+             C 82 73, 84 56, 76 44" />
+    <path d="M70 30 L 92 92" />
+    <path d="M64 40 L 86 34" />
+  </g>
+</svg>

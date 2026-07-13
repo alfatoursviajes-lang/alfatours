@@ -1,0 +1,32 @@
+# === Sistema ===
+.DS_Store
+Thumbs.db
+
+# === Previews, chequeos y temporales internos (no publicar) ===
+_preview/
+_chk_*.png
+_chk_*.jpg
+_afbody_preview.html
+preview-cotizador.html
+*.py
+
+# === Modelos / binarios de trabajo ===
+u2net.onnx
+
+# === Documentos internos (no deben quedar públicos) ===
+Alfa Tours - Manual de Marca y Estrategia.pdf
+GUION-COTIZACION.md
+
+# === Archivos originales de trabajo (ya renombrados en img/) ===
+IMG Alfa Tours/
+Img Alfa Tours 2/
+Logo PNG.png
+Flyer 1.jpg
+Flyer 2.png
+Fondo 1.jpg
+nosotros-atardecer.jpg
+1c2728af-21f4-476b-b9b8-bf6b425046b0.jpg
+6ca7dd07-3b9b-4aba-8b17-75074a48a08b.jpg
+
+# === No se usa con Cloudflare Pages (era de GitHub Pages) ===
+CNAME

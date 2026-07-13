@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-label="Alfa Tours">
+  <g fill="none" stroke="#F5820A" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" transform="translate(6,15)">
+    <path d="M78 40 C 55 24, 30 34, 27 60 C 24 86, 50 96, 70 82 C 82 73, 84 56, 76 44" />
+    <path d="M70 30 L 92 92" />
+    <path d="M64 40 L 86 34" />
+  </g>
+  <text x="150" y="100" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900"
+        font-size="82" letter-spacing="2" fill="#F5820A"
+        transform="skewX(-8)">ALFA<tspan dx="14">TOURS</tspan></text>
+</svg>
