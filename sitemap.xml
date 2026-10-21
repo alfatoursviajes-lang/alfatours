@@ -1,8 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://alfatours.mx/</loc><priority>1.0</priority></url>
-  <url><loc>https://alfatours.mx/servicios.html</loc><priority>0.9</priority></url>
-  <url><loc>https://alfatours.mx/flota.html</loc><priority>0.8</priority></url>
-  <url><loc>https://alfatours.mx/nosotros.html</loc><priority>0.7</priority></url>
-  <url><loc>https://alfatours.mx/contacto.html</loc><priority>0.8</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alfatours.mx/</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/servicios.html</loc>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/servicios.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/servicios.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/flota.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/flota.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/fleet.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/flota.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/nosotros.html</loc>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/nosotros.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/contacto.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/contacto.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/en/</loc>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/en/services.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/servicios.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/servicios.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/en/fleet.html</loc>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/flota.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/fleet.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/flota.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/en/about.html</loc>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/nosotros.html"/>
+  </url>
+  <url>
+    <loc>https://alfatours.mx/en/contact.html</loc>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://alfatours.mx/contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/contacto.html"/>
+  </url>
 </urlset>
