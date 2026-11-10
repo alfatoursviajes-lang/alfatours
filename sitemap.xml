@@ -71,4 +71,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://alfatours.mx/en/contact.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://alfatours.mx/contacto.html"/>
   </url>
+  <url><loc>https://alfatours.mx/privacidad</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://alfatours.mx/en/privacy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
